@@ -1,0 +1,19 @@
+[00:00:07] ID: T03
+Sentido: Contraflujo
+---
+Nodo Aguas Arriba: NI
+Nodo Aguas Abajo: P02
+Tipo Alcantarillado: Sanitario
+Material Tubo: PVC
+Diámetro: | Pulg: 4 | mm 102 |
+Fase 1
+Ciudad: Bogotá D.C
+[00:02:21] Inicio de inspeccion
+[00:04:23] Curvatura vertical arriba 0.20M
+[00:05:57] Hueco
+[00:06:35] Pedazo de tubo incrustado 0.30M
+[00:06:53] Fin de inspeccion
+
+
+CONCLUISONES
+EL TUBO SE ENCUENTRA COLAPSADO 100%
